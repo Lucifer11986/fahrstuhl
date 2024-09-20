@@ -11,3 +11,7 @@ Ihr könnt alles frei verwenden und wenn ihr daran bastelt wäre es schön wenn 
 Ich wünsche euch viel spass damit.
 
 Und vielen dank für eure Aufmerksamkeit
+
+Install:
+
+Ordner in den Resources ordner verschieden und dann in der server.cfg start fahrstuhl oder ensure fahrstuhl einfügen 
