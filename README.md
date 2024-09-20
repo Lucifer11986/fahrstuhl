@@ -15,3 +15,9 @@ Und vielen dank für eure Aufmerksamkeit
 Install:
 
 Ordner in den Resources ordner verschieden und dann in der server.cfg start fahrstuhl oder ensure fahrstuhl einfügen 
+
+Changelog 1.5.0
+
+Anzahl der Fahrstühle nun erweiterbar (einfach copy/past und name des elevators ändern) in der client.lua
+
+Text anzeige überarbeitet sowie ein Ramen drum gezogen, sowie farblich gestalltet.
