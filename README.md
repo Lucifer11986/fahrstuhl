@@ -1,8 +1,8 @@
 # fahrstuhl
 Das ist mein erstes Lua Script für ein Fahrstuhl in GTA 5 für ein RP Server
 
-In der Config.lua sowie in der Clint.lua sind die Coords des Fahrstuhls diese können
-geändert werden.
+In der Config.lua sowie in der Client.lua sind die Coords des Fahrstuhls diese können
+geändert werden (er das Script nutzt aktuell die Coords aus der Client.lua).
 
 Der Fahrstuhl ist Aktuell auf das PD in Vestpuchi ausgelegt.
 
